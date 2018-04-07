@@ -1,0 +1,12 @@
+name: BCaixas
+description: Sistema de Caixas Misteriosas
+main: com.bestfyplugner.bcaixasmistery.Main
+version: 1.0
+author: bestfyplugner
+commands:
+  comando:
+    aliases: [dg]
+    permission: perm.use
+    permission-message: No Permission
+    usage: /<command> [usage]
+    description: Comando Description
